@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mridula Duggal"
 title_separator          : "-"
 name                     : &name "Mridula Duggal"
-description              : &description "personal description"
+description              : &description "PhD Candidate, Univeristat Autònoma de Barcelona and Barcelona GSE"
 url                      : https://mridulaecon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Mridgy/mridulaecon.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : Mridgy
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Mridula Duggal"
-  avatar           : "website.png"
+  avatar           : "profile.png"
   bio              : "PhD Candidate, Univeristat Autònoma de Barcelona and Barcelona GSE"
   location         : "Barcelona, Spain"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : mridula.duggal@uab.cat
+  email            : "mridula.duggal@uab.cat"
   researchgate     :
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "@Mridgyy"
+  twitter          : "Mridgyy"
   vine             :
   weibo            :
   xing             :
@@ -178,15 +178,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+research:
+  output: true
+  permalink: /:collection/:path/
 
 
 # Defaults
@@ -227,10 +221,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
@@ -265,6 +259,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
