@@ -36,7 +36,7 @@ author_profile: true
 Roam Research is (as the way the website describes it) "A note-taking tool for networked thought." I use Roam for my research and life administration. As part of my workflow, I create several templates to make work faster and easier. You can find some of the templates I use on my [Public Graph](https://roamresearch.com/#/app/Mridula-Public/page/a5AUdOPQ4). If you have any questions/comments, I'm always up for a conversation on Roam!
 
 Here's what my networked thought graph looks like right now (September 2020). 
-![Networked Thoughts](/images/netg.png){:height="500px" width="500px"}
+![](/images/netg.png){:height="500px" width="500px"}
 
 #### [Zotero](https://www.zotero.org/)
 Zotero is a free and open source reference manager. I highly recommend having a reference manager even if not Zotero (Mendeley is an alternative). It can store all bibliographic information and create BibTeX references. In addition, it searches the internet for open access PDFs, which is nice. But mostly, it being open source is the gripper. 
