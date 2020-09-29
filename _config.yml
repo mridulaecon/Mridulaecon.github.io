@@ -181,9 +181,6 @@ teaching:
 research:
   output: true
   permalink: /:collection/:path/
-resources:
-    output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
