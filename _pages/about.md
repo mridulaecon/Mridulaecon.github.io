@@ -14,7 +14,7 @@ I'm a PhD candidate in Economics at the [IDEA Graduate Programme](http://idea.ua
 
 My research interests are Monetary Policy, Adaptive Expectations, Fiscal Policy. 
 
-# ​Contact 
+# ​Contact
 
 ### Address:
 
