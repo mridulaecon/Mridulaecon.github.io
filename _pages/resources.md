@@ -29,14 +29,14 @@ author_profile: true
 
 ### Productivity Tools
 ---
+Disclaimer: None of the tools listed sponsor me. But these are tools I have found extremely useful for when I am working, so I am sharing them. 
+
 #### [Alfred for Mac OS](https://www.alfredapp.com/)
 Similar to the spotlight search in the Mac but with much more functionality such as Clipboard history and Text Expanders. Useful tool to make the keyboard your best friend and save time. (Of course, what you save per usage is small. But over time, the seconds add up.)
 
 #### [Readwise](https://readwise.io/)
 
 Readwise is a great tool to store highlights from any PDFs, journal articles, bog posts, newspaper articles, tweets etc. You can either link different accounts such as Amazon Kindle and Medium or upload PDFs/e-books manually. It's unseful because everyday, it will resurface highlights you have saved everyday. Allowing you to dig into old gems you may have forgotten about. 
-
-Disclaimer: None of the tools above sponsor me. But these are tools I have found extremely useful for when I am working, so I am sharing them. 
 
 #### [Roam Research](https://roamresearch.com/) 
 
