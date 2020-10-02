@@ -29,7 +29,8 @@ author_profile: true
 
 ### Productivity Tools
 ---
-
+#### [Alfred for Mac OS](https://www.alfredapp.com/)
+Similar to the spotlight search in the Mac but with much more functionality such as Clipboard history and Text Expanders. Useful tool to make the keyboard your best friend and save time. (Of course, what you save per usage is small. But over time, the seconds add up.)
 
 #### [Roam Research](https://roamresearch.com/) 
 
@@ -38,11 +39,11 @@ Roam Research is (as the way the website describes it) "A note-taking tool for n
 Here's what my networked thought graph looks like right now (September 2020). 
 ![](/images/netg.png){:height="500px" width="500px"}
 
-#### [Zotero](https://www.zotero.org/)
-Zotero is a free and open source reference manager. I highly recommend having a reference manager even if not Zotero (Mendeley is an alternative). It can store all bibliographic information and create BibTeX references. In addition, it searches the internet for open access PDFs, which is nice. But mostly, it being open source is the gripper. 
-
 #### [Readwise](https://readwise.io/)
 
 Readwise is a great tool to store highlights from any PDFs, journal articles, bog posts, newspaper articles, tweets etc. You can either link different accounts such as Amazon Kindle and Medium or upload PDFs/e-books manually. It's unseful because everyday, it will resurface highlights you have saved everyday. Allowing you to dig into old gems you may have forgotten about. 
 
 Disclaimer: None of the tools above sponsor me. But these are tools I have found extremely useful for when I am working, so I am sharing them. 
+
+#### [Zotero](https://www.zotero.org/)
+Zotero is a free and open source reference manager. I highly recommend having a reference manager even if not Zotero (Mendeley is an alternative). It can store all bibliographic information and create BibTeX references. In addition, it searches the internet for open access PDFs, which is nice. But mostly, it being open source is the gripper. 
