@@ -42,8 +42,12 @@ Readwise is a great tool to store highlights from any PDFs, journal articles, bo
 
 Roam Research is (as the way the website describes it) "A note-taking tool for networked thought." I use Roam for my research and life administration. As part of my workflow, I create several templates to make work faster and easier. You can find some of the templates I use on my [Public Graph](https://roamresearch.com/#/app/Mridula-Public/page/a5AUdOPQ4). If you have any questions/comments, I'm always up for a conversation on Roam!
 
-Here's what my networked thought graph looks like right now (September 2020). 
-![](/images/netg.png){:height="500px" width="500px"}
+Here's what my networked thought graph looks like right now (June 2021). 
+![](/images/RR.png){:height="500px" width="500px"}
+
+#### [The Work Gym](https://www.ultraworking.com/twg) 
+
+Pomodoro style Work Cycles with social accountability. Checkout the link if you're curious. The 30 minute and 10 minute off pattern has really helped me amp up my focus, work hours and introduced me to like minded people. 
 
 #### [Zotero](https://www.zotero.org/)
 Zotero is a free and open source reference manager. I highly recommend having a reference manager even if not Zotero (Mendeley is an alternative). It can store all bibliographic information and create BibTeX references. In addition, it searches the internet for open access PDFs, which is nice. But mostly, it being open source is the gripper. 
