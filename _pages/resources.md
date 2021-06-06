@@ -47,7 +47,7 @@ Here's what my networked thought graph looks like right now (June 2021).
 
 #### [The Work Gym](https://www.ultraworking.com/twg) 
 
-Pomodoro style Work Cycles with social accountability. Checkout the link if you're curious. The 30 minute on and 10 minute off pattern has really helped me amp up my focus, work hours and introduced me to like minded people. sefj
+Pomodoro style Work Cycles with social accountability. Checkout the link if you're curious. The 30 minute on and 10 minute off pattern has really helped me amp up my focus, work hours and introduced me to like minded people. 
 
 #### [Zotero](https://www.zotero.org/)
 Zotero is a free and open source reference manager. I highly recommend having a reference manager even if not Zotero (Mendeley is an alternative). It can store all bibliographic information and create BibTeX references. In addition, it searches the internet for open access PDFs, which is nice. But mostly, it being open source is the gripper. 
